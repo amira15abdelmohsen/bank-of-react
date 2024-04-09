@@ -6,6 +6,10 @@ This repository is the starter code for Assignment 3 - Bank of React.
 https://amira15abdelmohsen.github.io/bank-of-react/)
 
 ----------
+### Group member names
+Tahsin Hossain
+Amira Abdelmohsen
+----------
 ### 1. Use the following process to ***import*** the Assignment 3 starter code repository to your GitHub account as your starter codebase
 1.	Log on to GitHub
 2.	Click on the + sign in the top right corner (next to the user icon)
